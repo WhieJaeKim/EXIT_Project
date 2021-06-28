@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CPP_Exit",
+			"Path": "C:\\Users\\user\\Documents\\Unreal Projects\\CPP_Exit_protoA\\Source\\CPP_Exit.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CPP_ExitEditor",
+			"Path": "C:\\Users\\user\\Documents\\Unreal Projects\\CPP_Exit_protoA\\Source\\CPP_ExitEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

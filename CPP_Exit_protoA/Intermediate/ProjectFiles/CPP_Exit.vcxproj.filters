@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CPP_Exit.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{9347CBFC-7473-4515-934B-9065AD5C3B0F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CPP_Exit.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CPP_ExitEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{9BD3B8B8-055B-4D4F-B85D-FF7C80DBCAAD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CPP_Exit">
+      <UniqueIdentifier>{8A0E5E74-B1C4-4D4E-BCCF-D7A34210D5C3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CPP_Exit\CPP_Exit.Build.cs">
+      <Filter>Source\CPP_Exit</Filter>
+    </None>
+    <Filter Include="Source\CPP_Exit\Private">
+      <UniqueIdentifier>{200D11AD-5A41-413C-8CA5-98229538E976}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CPP_Exit\Private\Arrow.cpp">
+      <Filter>Source\CPP_Exit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CPP_Exit\Private\Boss.cpp">
+      <Filter>Source\CPP_Exit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CPP_Exit\Private\BossBullet.cpp">
+      <Filter>Source\CPP_Exit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CPP_Exit\Private\Character_CPP.cpp">
+      <Filter>Source\CPP_Exit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CPP_Exit\Private\CPP_Exit.cpp">
+      <Filter>Source\CPP_Exit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CPP_Exit\Private\CPP_ExitGameModeBase.cpp">
+      <Filter>Source\CPP_Exit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CPP_Exit\Private\Obstacle.cpp">
+      <Filter>Source\CPP_Exit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CPP_Exit\Private\PlayerCPP.cpp">
+      <Filter>Source\CPP_Exit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CPP_Exit\Private\WallZone.cpp">
+      <Filter>Source\CPP_Exit\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\CPP_Exit\Public">
+      <UniqueIdentifier>{73DE88F2-1EF8-4B37-83EE-1C54DFF8422A}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\CPP_Exit\Public\Arrow.h">
+      <Filter>Source\CPP_Exit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CPP_Exit\Public\Boss.h">
+      <Filter>Source\CPP_Exit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CPP_Exit\Public\BossBullet.h">
+      <Filter>Source\CPP_Exit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CPP_Exit\Public\Character_CPP.h">
+      <Filter>Source\CPP_Exit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CPP_Exit\Public\CPP_Exit.h">
+      <Filter>Source\CPP_Exit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CPP_Exit\Public\CPP_ExitGameModeBase.h">
+      <Filter>Source\CPP_Exit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CPP_Exit\Public\Obstacle.h">
+      <Filter>Source\CPP_Exit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CPP_Exit\Public\PlayerCPP.h">
+      <Filter>Source\CPP_Exit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CPP_Exit\Public\WallZone.h">
+      <Filter>Source\CPP_Exit\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
