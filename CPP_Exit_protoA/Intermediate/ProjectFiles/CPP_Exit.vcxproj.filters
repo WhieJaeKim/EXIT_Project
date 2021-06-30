@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\CPP_Exit.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{9347CBFC-7473-4515-934B-9065AD5C3B0F}</UniqueIdentifier>
+      <UniqueIdentifier>{74D40954-2AA5-44B8-A34B-5C2030D58CFF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\CPP_Exit.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{9BD3B8B8-055B-4D4F-B85D-FF7C80DBCAAD}</UniqueIdentifier>
+      <UniqueIdentifier>{2F26F4B4-FF17-407F-BFCE-041CBC9A4E11}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,13 +30,13 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\CPP_Exit">
-      <UniqueIdentifier>{8A0E5E74-B1C4-4D4E-BCCF-D7A34210D5C3}</UniqueIdentifier>
+      <UniqueIdentifier>{75CBD01D-C381-4EEA-BB67-82563552CF31}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\CPP_Exit\CPP_Exit.Build.cs">
       <Filter>Source\CPP_Exit</Filter>
     </None>
     <Filter Include="Source\CPP_Exit\Private">
-      <UniqueIdentifier>{200D11AD-5A41-413C-8CA5-98229538E976}</UniqueIdentifier>
+      <UniqueIdentifier>{E1D55768-D625-4CD3-9DE2-3DFF2AB79CB3}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\CPP_Exit\Private\Arrow.cpp">
       <Filter>Source\CPP_Exit\Private</Filter>
@@ -56,6 +56,12 @@
     <ClCompile Include="..\..\Source\CPP_Exit\Private\CPP_ExitGameModeBase.cpp">
       <Filter>Source\CPP_Exit\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\CPP_Exit\Private\Enemy.cpp">
+      <Filter>Source\CPP_Exit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CPP_Exit\Private\EnemyMove.cpp">
+      <Filter>Source\CPP_Exit\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\CPP_Exit\Private\Obstacle.cpp">
       <Filter>Source\CPP_Exit\Private</Filter>
     </ClCompile>
@@ -66,7 +72,7 @@
       <Filter>Source\CPP_Exit\Private</Filter>
     </ClCompile>
     <Filter Include="Source\CPP_Exit\Public">
-      <UniqueIdentifier>{73DE88F2-1EF8-4B37-83EE-1C54DFF8422A}</UniqueIdentifier>
+      <UniqueIdentifier>{5958801D-1CC9-47F3-8F36-2346E4B65279}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\CPP_Exit\Public\Arrow.h">
       <Filter>Source\CPP_Exit\Public</Filter>
@@ -84,6 +90,12 @@
       <Filter>Source\CPP_Exit\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\CPP_Exit\Public\CPP_ExitGameModeBase.h">
+      <Filter>Source\CPP_Exit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CPP_Exit\Public\Enemy.h">
+      <Filter>Source\CPP_Exit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CPP_Exit\Public\EnemyMove.h">
       <Filter>Source\CPP_Exit\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\CPP_Exit\Public\Obstacle.h">

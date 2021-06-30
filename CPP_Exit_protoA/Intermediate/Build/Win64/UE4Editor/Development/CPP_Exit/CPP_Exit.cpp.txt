@@ -1,2 +1,2 @@
-C:\Users\user\Documents\Unreal Projects\CPP_Exit_protoA\Intermediate\Build\Win64\UE4Editor\Development\CPP_Exit\Definitions.CPP_Exit.h
-C:\Users\user\Documents\Unreal Projects\CPP_Exit_protoA\Source\CPP_Exit\Public\CPP_Exit.h
+C:\Users\user\Documents\Unreal Projects\CPP_Exit\Intermediate\Build\Win64\UE4Editor\Development\CPP_Exit\Definitions.CPP_Exit.h
+C:\Users\user\Documents\Unreal Projects\CPP_Exit\Source\CPP_Exit\Public\CPP_Exit.h

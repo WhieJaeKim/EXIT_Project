@@ -1,11 +1,11 @@
 ﻿  Building CPP_ExitEditor...
   Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
   Building 4 actions with 8 processes...
-    [1/4] WallZone.cpp
-    [2/4] UE4Editor-CPP_Exit-0009.lib
-       C:\Users\user\Documents\Unreal Projects\CPP_Exit_protoA\Intermediate\Build\Win64\UE4Editor\Development\CPP_Exit\UE4Editor-CPP_Exit-0009.lib 라이브러리 및 C:\Users\user\Documents\Unreal Projects\CPP_Exit_protoA\Intermediate\Build\Win64\UE4Editor\Development\CPP_Exit\UE4Editor-CPP_Exit-0009.exp 개체를 생성하고 있습니다.
-    [3/4] UE4Editor-CPP_Exit-0009.dll
-       C:\Users\user\Documents\Unreal Projects\CPP_Exit_protoA\Intermediate\Build\Win64\UE4Editor\Development\CPP_Exit\UE4Editor-CPP_Exit-0009.suppressed.lib 라이브러리 및 C:\Users\user\Documents\Unreal Projects\CPP_Exit_protoA\Intermediate\Build\Win64\UE4Editor\Development\CPP_Exit\UE4Editor-CPP_Exit-0009.suppressed.exp 개체를 생성하고 있습니다.
+    [1/4] Character_CPP.cpp
+    [2/4] UE4Editor-CPP_Exit-0022.lib
+       C:\Users\user\Documents\Unreal Projects\CPP_Exit\Intermediate\Build\Win64\UE4Editor\Development\CPP_Exit\UE4Editor-CPP_Exit-0022.lib 라이브러리 및 C:\Users\user\Documents\Unreal Projects\CPP_Exit\Intermediate\Build\Win64\UE4Editor\Development\CPP_Exit\UE4Editor-CPP_Exit-0022.exp 개체를 생성하고 있습니다.
+    [3/4] UE4Editor-CPP_Exit-0022.dll
+       C:\Users\user\Documents\Unreal Projects\CPP_Exit\Intermediate\Build\Win64\UE4Editor\Development\CPP_Exit\UE4Editor-CPP_Exit-0022.suppressed.lib 라이브러리 및 C:\Users\user\Documents\Unreal Projects\CPP_Exit\Intermediate\Build\Win64\UE4Editor\Development\CPP_Exit\UE4Editor-CPP_Exit-0022.suppressed.exp 개체를 생성하고 있습니다.
     [4/4] CPP_ExitEditor.target
-  Total time in Parallel executor: 19.53 seconds
-  Total execution time: 20.35 seconds
+  Total time in Parallel executor: 3.71 seconds
+  Total execution time: 4.41 seconds

@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\user\\Documents\\Unreal Projects\\CPP_Exit_protoA\\Source\\CPP_Exit\\CPP_Exit.Build.cs",
-		"C:\\Users\\user\\Documents\\Unreal Projects\\CPP_Exit_protoA\\Source\\CPP_Exit.Target.cs",
-		"C:\\Users\\user\\Documents\\Unreal Projects\\CPP_Exit_protoA\\Source\\CPP_ExitEditor.Target.cs"
+		"C:\\Users\\user\\Documents\\Unreal Projects\\CPP_Exit\\Source\\CPP_Exit\\CPP_Exit.Build.cs",
+		"C:\\Users\\user\\Documents\\Unreal Projects\\CPP_Exit\\Source\\CPP_Exit.Target.cs",
+		"C:\\Users\\user\\Documents\\Unreal Projects\\CPP_Exit\\Source\\CPP_ExitEditor.Target.cs"
 	],
 	"EngineVersion": "4.26.2"
 }

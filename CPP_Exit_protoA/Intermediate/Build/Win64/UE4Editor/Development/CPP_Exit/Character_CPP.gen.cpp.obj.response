@@ -31,7 +31,7 @@
 /wd4244
 /wd4838
 /I .
-/I "C:\Users\user\Documents\Unreal Projects\CPP_Exit_protoA\Source\CPP_Exit\Private"
+/I "C:\Users\user\Documents\Unreal Projects\CPP_Exit\Source\CPP_Exit\Private"
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
 /I Runtime
 /I Runtime\Engine\Classes
@@ -231,9 +231,9 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I "C:\Users\user\Documents\Unreal Projects\CPP_Exit_protoA\Intermediate\Build\Win64\UE4Editor\Inc\CPP_Exit"
-/I "C:\Users\user\Documents\Unreal Projects\CPP_Exit_protoA\Source"
-/I "C:\Users\user\Documents\Unreal Projects\CPP_Exit_protoA\Source\CPP_Exit\Public"
+/I "C:\Users\user\Documents\Unreal Projects\CPP_Exit\Intermediate\Build\Win64\UE4Editor\Inc\CPP_Exit"
+/I "C:\Users\user\Documents\Unreal Projects\CPP_Exit\Source"
+/I "C:\Users\user\Documents\Unreal Projects\CPP_Exit\Source\CPP_Exit\Public"
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -263,12 +263,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\Users\user\Documents\Unreal Projects\CPP_Exit_protoA\Intermediate\Build\Win64\CPP_ExitEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\user\Documents\Unreal Projects\CPP_Exit_protoA\Intermediate\Build\Win64\CPP_ExitEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\user\Documents\Unreal Projects\CPP_Exit_protoA\Intermediate\Build\Win64\CPP_ExitEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\user\Documents\Unreal Projects\CPP_Exit_protoA\Intermediate\Build\Win64\UE4Editor\Inc\CPP_Exit\Character_CPP.gen.cpp"
-/FI"C:\Users\user\Documents\Unreal Projects\CPP_Exit_protoA\Intermediate\Build\Win64\UE4Editor\Development\CPP_Exit\Definitions.CPP_Exit.h"
-/Fo"C:\Users\user\Documents\Unreal Projects\CPP_Exit_protoA\Intermediate\Build\Win64\UE4Editor\Development\CPP_Exit\Character_CPP.gen.cpp.obj"
+/FI"C:\Users\user\Documents\Unreal Projects\CPP_Exit\Intermediate\Build\Win64\CPP_ExitEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\user\Documents\Unreal Projects\CPP_Exit\Intermediate\Build\Win64\CPP_ExitEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\user\Documents\Unreal Projects\CPP_Exit\Intermediate\Build\Win64\CPP_ExitEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\user\Documents\Unreal Projects\CPP_Exit\Intermediate\Build\Win64\UE4Editor\Inc\CPP_Exit\Character_CPP.gen.cpp"
+/FI"C:\Users\user\Documents\Unreal Projects\CPP_Exit\Intermediate\Build\Win64\UE4Editor\Development\CPP_Exit\Definitions.CPP_Exit.h"
+/Fo"C:\Users\user\Documents\Unreal Projects\CPP_Exit\Intermediate\Build\Win64\UE4Editor\Development\CPP_Exit\Character_CPP.gen.cpp.obj"
 /TP
 /GR-
 /W4
